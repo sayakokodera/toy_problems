@@ -1,0 +1,41 @@
+# Ignore Mac system files
+.DS_Store
+
+
+# LaTeX files:
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.cb
+*.cb2
+*.fls
+*.fmt
+*.fot
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+.*.lb
+*.lof
+*.log
+*.lot
+*.out
+*.synctex
+*.synctex.gz
+*.toc
+
+
+# python related
+*.npy
+__pycache__/
+*.ipynb_checkpoints/
+
+# Else
+Code/plots/
+measurements/
